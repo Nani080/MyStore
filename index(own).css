@@ -1,0 +1,39 @@
+h1{
+    color: red;
+    background-color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+h3{
+    color: blue;
+    background-color: orange;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color: green;
+    background-color: pink;
+    font-size: 20px;
+    text-align: center;
+}
+h4{
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+#divCartContainer{
+    display: none;
+}
+addCartBtn{
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+inc{
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    text-align: center;
+}
